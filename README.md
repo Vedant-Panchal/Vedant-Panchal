@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FRONT-END DEVELOPMENT,WEBSITE-CLONES.<br>👯 I’m looking to collaborate on FRONT-END PROJECTS.<br>🤝 I’m looking for help with getting internships.<br>🌱 I’m currently learning BULMA CSS,Javascript,GSAP <br>⚡ Fun fact:<br>Why did the JavaScript developer leave their job?<br>Because they didn't get Arrays! 😄📦
+🔭 I’m currently working on FRONT-END DEVELOPMENT,WEBSITE-CLONES.<br>👯 I’m looking to collaborate on FRONT-END PROJECTS.<br>🤝 I’m looking for help with getting internships.<br>🌱 I’m currently learning BULMA CSS,Javascript,GSAP
 
 
 ## 🌐 Socials:
